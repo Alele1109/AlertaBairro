@@ -6,9 +6,10 @@ Entregável da disciplina **Data Science & Statistical Computing** — GS Citize
 
 | Nome completo | RM |
 |---|---|
-| `[preencher]` | `[preencher]` |
-| `[preencher]` | `[preencher]` |
-| `[preencher]` | `[preencher]` |
+| `[Alexandre Constantino Furtado Junior]` | `[RM567188]` |
+| `[Nicolas Forcione de Oliveira e Souza]` | `[RM566998]` |
+| `[Leonardo Batista de Souza]` | `[RM568558]` |
+| `[Matheus Freitas dos Santos]` | `[RM567337]` |
 
 ## Arquivos
 
